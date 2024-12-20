@@ -1,3 +1,4 @@
+/** @type {import('next').NextConfig} */ require("./public/static/logo.png")
 module.exports = {
   images: {
     remotePatterns: [

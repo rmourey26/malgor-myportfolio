@@ -1,13 +1,7 @@
 # Photo Portfolio V3 - Next.js + TailwindCSS
 
-[See it in action](https://jpvalery.photo)
-
 <img width="1289" alt="image" src="https://user-images.githubusercontent.com/4112343/109871710-756d2780-7c39-11eb-9841-2000f2e8e222.png">
 
-## Overview
-
-Codebase for [https://jpvalery.photo](https://jpvalery.photo) my photography portfolio.
-Current iteration is built using Next.js + TailwindCSS and pulls content from Contentful. It was launched in March 2021.
 
 ### Features
 
