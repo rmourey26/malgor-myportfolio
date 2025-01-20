@@ -9,7 +9,7 @@
 - TailwindCSS
 - Contentful
 - Analytics w/ [Umami](https://umami.is)
-- Hosted on Vercel
+
 
 ##### Notes
 
